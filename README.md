@@ -1,2 +1,2 @@
 # PerfMachine.jl
-Performance tracking infrastructure
+Performance tracking infrastructure, developed for ClimateMachine.jl.
